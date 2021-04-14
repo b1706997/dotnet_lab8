@@ -1,0 +1,12 @@
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\obj\Debug\dotNet_Lab8_SinhVien2.csprojAssemblyReference.cache
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\obj\Debug\dotNet_Lab8_SinhVien2.Properties.Resources.resources
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\obj\Debug\dotNet_Lab8_SinhVien2.csproj.GenerateResource.cache
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\obj\Debug\dotNet_Lab8_SinhVien2.csproj.CoreCompileInputs.cache
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\bin\Debug\dotNet_Lab8_SinhVien2.exe.config
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\bin\Debug\dotNet_Lab8_SinhVien2.exe
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\bin\Debug\dotNet_Lab8_SinhVien2.pdb
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\obj\Debug\dotNet_Lab8_SinhVien2.exe
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\obj\Debug\dotNet_Lab8_SinhVien2.pdb
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\obj\Debug\Views.ds_lop.resources
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\obj\Debug\Views.login.resources
+C:\Users\PC-ASUS\Desktop\BlankSpace\Study\dotNet\Labs\Lab8\dotNet_Lab8_SinhVien2\obj\Debug\Views.main.resources
